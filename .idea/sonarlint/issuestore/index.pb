@@ -9,3 +9,5 @@ A
 tests/ad.test.ts,8/4/84d8378e8e5b168e91a613aaa4e79f4b032239c8
 H
 contracts/publisher.clar,9/4/9473d951b2f73345766c957a30789f1cd3870ee1
+G
+tests/publisher.test.ts,e/0/e075ed914ff7aafe82c6c823671403d54f113894

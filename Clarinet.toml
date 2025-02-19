@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/ad.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.publisher]
+path = 'contracts/publisher.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
